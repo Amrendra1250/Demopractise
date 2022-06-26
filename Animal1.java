@@ -15,7 +15,7 @@ class Animal1
 		A1.age=25;
 		System.out.println(A1.color);
 		System.out.println(A1.age);
-//		A1.display("Black", 10);
+/		A1.display("Black", 10);
 		//System.out.println(A1.color);
 	}
 }
